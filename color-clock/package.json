@@ -1,0 +1,18 @@
+{
+  "name": "node-package-manager-lab",
+  "version": "1.0.0",
+  "description": "this is a lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://learn.co/tracks/module-4-web-development-immersive-2-1/introduction-to-npm/introduction-to-npm/node-package-manager-lab"
+  },
+  "author": "Stephen Anderson",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
