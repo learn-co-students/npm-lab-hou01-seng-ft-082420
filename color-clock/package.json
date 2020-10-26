@@ -1,0 +1,22 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "color-clock lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "test",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mlarcher531/npm-lab-hou01-seng-ft-082420.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mlarcher531/npm-lab-hou01-seng-ft-082420/issues"
+  },
+  "homepage": "https://github.com/mlarcher531/npm-lab-hou01-seng-ft-082420#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
